@@ -1,1 +1,1 @@
-Tämä on Git-harjoituksen muutos.
+Tehty muutoksia tähän.
